@@ -1,0 +1,34 @@
+Completo - Javascript e Node JS
+-------------------------------
+
+- Descrição - Domine Web - 13 Cursos - Javascript React Vue JS Node HTML CSS jQuery Bootstrap Webpack Gulp Banco de Dados
+- Url - https://www.udemy.com/course/curso-web/
+
+Andamento do Curso
+------------------
+Onde Parei - Seção 3: Javascript: Fundamentos
+                                  45. Operadores: Aritméticos	
+
+Git
+---
+- Repositório - https://github.com/cod3rcursos/web-moderno
+
+Npm 
+---
+- É o gerenciador de pacotes do Node
+
+VsCode (Visual Studio Code)
+---------------------------
+- Instalar o Plugin do Code Runner - CTRL + ALT + N para executar o código ou node .\nome_arquivo.js
+- Abrir o terminar e digitar Code .\nome_arquivo.js irá abrir o Visual Code direto no arquivo. Funciona no git bash também
+	- Se não estiver instalado, tem que instalar
+	
+Repl.it
+-------	
+URL - https://repl.it
+- Editor online com sintaxe definida para diversas linguagens, inclusive Java Script
+
+JSFiddle
+--------
+URL - https://jsfiddle.net/
+- Editor online HTML, CSS e Java Script
